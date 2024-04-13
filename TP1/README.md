@@ -1,3 +1,5 @@
+![ISPC](/assets/BannerISPC.png)
+
 # Trabajo practico #1
 
 ## **Objetivos:**
@@ -37,3 +39,5 @@
 • El trabajo práctico será valorado en la semana del 8/04 al 14/04  
 • Se deberá incluir una bibliografía de las fuentes consultadas para la elaboración del trabajo práctico.  
 • Se valorará la originalidad, creatividad y profundidad del análisis realizado.  
+
+![final](/assets/Curso%20ISPC.png)
