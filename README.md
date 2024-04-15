@@ -16,6 +16,6 @@
 ### Docente
 <img src="assets/line.png" align="center">
 
-- 👨‍🏫**Cristian Gonzalo Vera**. Prof. Instituto Superior Politécnico Córdoba y Desarrolador IoT. [Ver Github](https://github.com/Gona79).
+- 👨‍🏫**Cristian Gonzalo Vera**. Prof. Instituto Superior Politécnico Córdoba y Desarrollador IoT. [Ver Github](https://github.com/Gona79).
 
 ![ispc](/assets/Curso%20ISPC.png)
