@@ -1,0 +1,5 @@
+﻿Nombre,Cantidad,Componente
+"Meter1",1,"Voltaje Multímetro"
+"P1",1,"30 , 1.5  Fuente de alimentación"
+"U1",1," Regulador de 5 V [LM7805]"
+"C1, C2",2,"10 uF, 50 V Condensador polarizado"
