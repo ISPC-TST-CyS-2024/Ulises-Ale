@@ -1,14 +1,14 @@
+![logo](/assets/banner_telecom.png)
 
-
-# Asistente Virtual para el Hogar  
-
+# **Asistente Virtual para el Hogar**  
+![line](/assets/line.png)
 ## Objetivos del Proyecto:  
 1. **Automatización de la Domótica:** Implementar tecnologías que permitan la automatización y control remoto de dispositivos del hogar para mejorar la comodidad y la eficiencia energética.  
 2. **Interacción Hombre-Máquina:** Desarrollar una interfaz intuitiva que facilite la interacción de los usuarios con el sistema mediante comandos de voz y aplicaciones móviles.  
 3. **Integración de Sistemas y Tecnologías IoT:** Asegurar la compatibilidad y la integración efectiva de diferentes dispositivos y tecnologías dentro del ecosistema del hogar inteligente.  
 4. **Educación y Desarrollo Profesional:** Proporcionar a los estudiantes experiencia práctica en el diseño y desarrollo de sistemas IoT aplicados a la domótica, preparándolos para enfrentar desafíos tecnológicos en
 entornos profesionales.
-
+![line](/assets/line.png)
 ## Desarrollo del Documento:  
 1. **Investigación sobre Asistentes de Voz:**  
 • Objetivo: Analizar las capacidades y limitaciones de asistentes virtuales como Google Assistant, Alexa, Siri y Cortana en el contexto de la domótica.  
@@ -29,3 +29,5 @@ entornos profesionales.
 5. **Uso de Raspberry Pi como Hub Domótico:**  
 • Objetivo: Explorar la viabilidad y los beneficios de utilizar Raspberry Pi como central de control para la domótica.
 • Entregable: Un informe que describa cómo configurar y utilizar Raspberry Pi para manejar dispositivos IoT en un sistema domótico integrado, incluyendo ejemplos de aplicaciones y desafíos potenciales.
+
+![final](/assets/Curso%20ISPC.png)
